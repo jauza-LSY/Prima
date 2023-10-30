@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
 public class Prima {
+    /**
+     * Metode untuk menguji apakah bilangan prima atau bukan
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
